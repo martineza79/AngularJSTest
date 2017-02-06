@@ -1,4 +1,6 @@
-﻿describe('My first test', function () {
+///referenced from https://www.youtube.com/watch?v=D1HTzK92jqM
+
+describe('My first test', function () {
     it('should be able to test sum of two values', function () {
         var sum = 10 + 20;
         //expect(sum).toEqual(300); makes the test fail
